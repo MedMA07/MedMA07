@@ -60,7 +60,7 @@ I am a passionate engineering student from **Oran - Nedroma, Algeria**, currentl
 If you find my projects helpful and want to support my journey:
 
 * 🏦 **ECCP (RIP):** `00799999002782377888`
-* 💰 **USDT (Binance - TRC20):** `THmnKZyamLjXoPEcjB9csjMhiS9X5w4a4K`
+* 💰 **USDT (Binance - TRC20):** ` THmnKZyamLjXoPEcjB9csjMhiS9X5w4a4K `
 
 ---
 
