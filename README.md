@@ -11,11 +11,24 @@ I am a passionate engineering student from **Oran - Nedroma, Algeria**, currentl
 * **Languages:** C++, Assembly (ASM), Python (Data Science).
 * **Tools:** Proteus Simulation, MATLAB, Adobe Suite (Ps/Ai).
 
+### 🗣 Languages:
+* 🇩🇿 **Arabic:** Native
+* 🇬🇧 **English:** Intermediate / Proficient
+* 🇫🇷 **French:** Intermediate 
+
+
 ---
 ### 🎨 Hobbies & Interests:
+* 🛠 **DIY & Decoration:** I love creating Pinterest-style decor and DIY projects.
 * 📸 **Photography:** Capturing moments and editing with professional tools.
 * 🎮 **Gaming:** Passionate about strategy and competitive games.
-* 🛠 **DIY Electronics:** Building custom gadgets and home automation.
+* 🎬 **Entertainment:** Big fan of Movies, TV Series, and Anime.
+* 🌊 **Nature & Outdoors:** I enjoy traveling, exploring nature, and going to the beach.
+* 🏋️ **Fitness:** Staying active and practicing sports.
+
+---
+### 🌙 Faith & Identity:
+* 🤲 **Proud Muslim | الحمد لله**
 
 ---
 
@@ -34,15 +47,14 @@ I am a passionate engineering student from **Oran - Nedroma, Algeria**, currentl
 
 ---
 
-### 📞 Contact Information:
+### 📞 Contact & Gaming:
 * 📧 **Email:** elaminemed.ad@gmail.com
 * 📱 **WhatsApp/Phone:** +213 668 59 87 10
 * 💬 **Discord ID:** `med_ma7`
+* 🎮 **Epic Games ID:** `Med_M-A`
 * 📍 **Location:** Oran - Nedroma, Algeria
 
 ---
-
-
 
 ### ☕ Support My Work (Donations):
 If you find my projects helpful and want to support my journey:
