@@ -1,4 +1,4 @@
-# Hi there, I'm El Amine 👋
+# Hi there, I'm Mengouchi Mohamed El Amine ,They call me Amine 👋
 
 **Electrical Engineering Student at USTO-MB | Embedded Systems & Instrumentation**
 
