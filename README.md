@@ -12,6 +12,12 @@ I am a passionate engineering student from **Oran - Nedroma, Algeria**, currentl
 * **Tools:** Proteus Simulation, MATLAB, Adobe Suite (Ps/Ai).
 
 ---
+### 🎨 Hobbies & Interests:
+* 📸 **Photography:** Capturing moments and editing with professional tools.
+* 🎮 **Gaming:** Passionate about strategy and competitive games.
+* 🛠 **DIY Electronics:** Building custom gadgets and home automation.
+
+---
 
 ### 🌐 Connect with me:
 
@@ -35,6 +41,8 @@ I am a passionate engineering student from **Oran - Nedroma, Algeria**, currentl
 * 📍 **Location:** Oran - Nedroma, Algeria
 
 ---
+
+
 
 ### ☕ Support My Work (Donations):
 If you find my projects helpful and want to support my journey:
